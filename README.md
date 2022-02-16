@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @megs0208
-- 👀 I’m interested in soft & hardware engineerin
+- 👀 I’m interested in soft & hardware engineering
 - 🌱 I’m currently learning embedded programming & latex
 
 <!---
